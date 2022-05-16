@@ -1,1 +1,0 @@
-# sms.auth.class
